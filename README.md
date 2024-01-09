@@ -6,26 +6,22 @@
 - I take pleasure in making the software world more secure through innovative and robust security solutions.
 - I strongly believe in automation, cloud technology, and a growth mindset.
 
-## Skills
+## ⚡ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,js,react,html,css,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,ts,go,python,html,react,azure,kubernetes,docker,powershell,bash)](https://skillicons.dev)
 
 ## 📫 How to reach me
 
-Personal web site [anmalkov.com](https://www.anmalkov.com)
+- My personal web site [anmalkov.com](https://www.anmalkov.com).
+- My LinkedIn profile [linkedin.com/in/anmalkov](https://www.linkedin.com/in/anmalkov)
+- My twitter account [@anmalkov](https://twitter.com/anmalkov)
 
+## 🗂️ Highlight Projects
 
-<!--
-**anmalkov/anmalkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anmalkov/crisp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmalkov&repo=crisp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crisp" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anmalkov/imcopy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmalkov&repo=imcopy&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="imcopy" />
+</a>
