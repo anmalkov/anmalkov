@@ -16,6 +16,7 @@
 - My LinkedIn profile [linkedin.com/in/anmalkov](https://www.linkedin.com/in/anmalkov)
 - My twitter account [@anmalkov](https://twitter.com/anmalkov)
 
+<!--
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/anmalkov/crisp">
@@ -45,6 +46,7 @@
     <img height=175 src="https://github-readme-stats.vercel.app/api/pin/?username=anmalkov&repo=imcopy&show_icons=true" />
   </picture>
 </a>
+-->
 
 ## 🏆 My stats
 
