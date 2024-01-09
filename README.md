@@ -8,7 +8,7 @@
 
 ## ⚡ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,ts,go,python,html,react,azure,kubernetes,docker,powershell,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,go,python,html,dotnet,react,nodejs,azure,kubernetes,docker,powershell,bash)](https://skillicons.dev)
 
 ## 📫 How to reach me
 
