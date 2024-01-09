@@ -19,9 +19,55 @@
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/anmalkov/crisp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmalkov&repo=crisp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crisp" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=anmalkov&repo=crisp&show_icons=true&theme=dark&border_color=333333"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=anmalkov&repo=crisp&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=175 src="https://github-readme-stats.vercel.app/api/pin/?username=anmalkov&repo=crisp&show_icons=true" />
+  </picture>
 </a>
 
 <a href="https://github.com/anmalkov/imcopy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmalkov&repo=imcopy&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="imcopy" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=anmalkov&repo=imcopy&show_icons=true&theme=dark&border_color=333333"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=anmalkov&repo=imcopy&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=175 src="https://github-readme-stats.vercel.app/api/pin/?username=anmalkov&repo=imcopy&show_icons=true" />
+  </picture>
 </a>
+
+## 🏆 My stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anmalkov&show_icons=true&rank_icon=percentile&theme=dark&border_color=333333"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anmalkov&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=175 src="https://github-readme-stats.vercel.app/api?username=anmalkov&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anmalkov&show_icons=true&theme=dark&layout=compact&border_color=333333"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anmalkov&show_icons=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img  height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmalkov&show_icons=true&layout=compact" />
+</picture>
