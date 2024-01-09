@@ -52,7 +52,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anmalkov&show_icons=true&rank_icon=percentile&theme=dark&border_color=333333"
+    srcset="https://github-readme-stats.vercel.app/api?username=anmalkov&show_icons=true&rank_icon=percentile&theme=transparent&border_color=333333"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -64,7 +64,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anmalkov&show_icons=true&theme=dark&layout=compact&border_color=333333"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anmalkov&show_icons=true&theme=transparent&layout=compact&border_color=333333"
     media="(prefers-color-scheme: dark)"
   />
   <source
